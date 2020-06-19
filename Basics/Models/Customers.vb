@@ -1,5 +1,4 @@
-﻿
-Namespace Models
+﻿Namespace Models
     Partial Public Class Customers
         Public Sub New()
             Orders = New HashSet(Of Orders)()
